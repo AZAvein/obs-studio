@@ -33,8 +33,8 @@ Contributing
    the coding and commit guidelines:
    https://github.com/jp9000/obs-studio/blob/master/CONTRIBUTING.rst
 
- - If you wish to contribute translations, do not submit code.  Instead,
-   please use Crowdin.  For more information read this thread:
+ - If you wish to contribute translations, do not submit pull requests.
+   Instead, please use Crowdin.  For more information read this thread:
    https://obsproject.com/forum/threads/how-to-contribute-translations-for-obs.16327/
 
  - Other ways to contribute are by helping people out with support on
