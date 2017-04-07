@@ -15,8 +15,8 @@ Quick Links for Contributing
  - Development forum:
    https://obsproject.com/forum/list/general-development.21/
 
- - To contribute language translations, do not make pull requests.  Instead,
-   use crowdin.  Read here for more information:
+ - To contribute language translations, do not make pull requests.
+   Instead, use crowdin.  Read here for more information:
    https://obsproject.com/forum/threads/how-to-contribute-translations-for-obs.16327/
 
 Coding Guidelines
@@ -31,8 +31,8 @@ Coding Guidelines
    git in the command prompt, it will show you any whitespace issues
    marked with red.
 
- - Tabs for indentation, spaces for alignment.  Tabs are treated as
-   8-columns wide.
+ - Tabs for indentation, spaces for alignment.  Tabs are treated as 8
+   columns wide.
 
  - 80 columns max
 
