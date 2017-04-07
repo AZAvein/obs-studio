@@ -15,7 +15,8 @@ Quick Links for Contributing
  - Development forum:
    https://obsproject.com/forum/list/general-development.21/
 
- - To contribute language translations, do not submit code.  See:
+ - To contribute language translations, do not make pull requests.  Instead,
+   use crowdin.  Read here for more information:
    https://obsproject.com/forum/threads/how-to-contribute-translations-for-obs.16327/
 
 Coding Guidelines
