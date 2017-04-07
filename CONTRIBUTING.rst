@@ -22,7 +22,7 @@ Coding Guidelines
 -----------------
 
  - OBS Studio uses kernel normal form (linux variant), for more
-   information, please read here for more information:
+   information, please read here:
    https://www.kernel.org/doc/Documentation/CodingStyle
 
  - Avoid trailing spaces.  To view trailing spaces before making a
