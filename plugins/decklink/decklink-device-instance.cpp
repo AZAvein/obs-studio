@@ -94,6 +94,9 @@ void DeckLinkDeviceInstance::HandleAudioPacket(
 		currentPacket.data[0]   = (uint8_t *)bytes;
 	}
 
+	nextAudioTS = timestamp +
+		((uint64_t)frameCount * 1000000000ULL / 48000ULL) + 1;
+
 	obs_source_output_audio(decklink->GetSource(), &currentPacket);
 }
 
